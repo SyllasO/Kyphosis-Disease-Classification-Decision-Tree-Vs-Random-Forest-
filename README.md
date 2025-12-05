@@ -1,5 +1,3 @@
-# Kyphosis-Disease-Classification-Decision-Tree-Vs-Random-Forest
-
 # Kyphosis Disease Classification (Decision Tree vs Random Forest)
 
 This repository contains a machine learning workflow for predicting **post–operative kyphosis** (spinal deformity) in pediatric patients using classical tree-based models.  
